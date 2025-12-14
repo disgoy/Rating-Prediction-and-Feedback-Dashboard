@@ -1,0 +1,96 @@
+timestamp,rating,review,ai_response,ai_summary,ai_action
+2025-12-14T22:15:58.024847,3,decent food," Dear Customer,
+
+Thank you for taking the time to share your feedback with us. We're truly sorry to hear that your experience with our food was only decent. We strive to provide our customers with exceptional dining experiences, and it seems we fell short in your case.
+
+We appreciate your honesty and will take your feedback into consideration to improve our offerings. If you have any specific suggestions or areas you felt could have been improved, we would be grateful if you could share them with us.
+
+We hope to have the opportunity to serve you again and make your experience a memorable one.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Restaurant's Name]", ," 
+
+        <s> "
+2025-12-14T22:40:29.505399,4,food was good but just a little more butter,Not enough information provided.,Not enough information provided.,"Based on the review, it seems that the customer enjoyed the food but felt that there could be a slight increase in the amount of butter used in their dish. To improve customer satisfaction and potentially attract more customers, the business team could consider adjusting their recipes to include a slightly higher amount of butter, or offer an optional butter side for customers who prefer a richer taste. This adjustment may help to cater to those who enjoy a more buttery flavor in their food, and could lead to positive word-of-mouth and increased customer satisfaction."
+2025-12-14T22:40:57.124647,1,"decent food
+",Not enough information provided.,The customer found the food to be satisfactory but not exceptional.,"To improve customer satisfaction, the business team should focus on enhancing the quality and presentation of their food offerings. This could involve investing in better ingredients, refining recipes, or improving plating techniques to create a more memorable dining experience. Additionally, gathering more detailed feedback from customers on what they specifically liked or disliked about the food could help identify areas for targeted improvement."
+2025-12-14T22:43:53.138786,3,"decent food, could use a little more spices","<s> [OUT]
+Dear [Customer's Name],
+
+Thank you for taking the time to leave us a 3-star review and for your valuable feedback. We're glad to hear that you found our food decent, and we truly appreciate your honesty about the spices.
+
+Your feedback is incredibly important to us, and we'll make sure to pass it along to our kitchen team. We'll be working on enhancing the flavor profile of our dishes to better suit your preferences. We hope you'll give us another chance to serve you and show you how much we value your input.
+
+Thank you again for your feedback, and we look forward to welcoming you back soon!
+
+Best regards,
+[Your Name]
+[Your Position]
+[Restaurant Name]
+[/OUT]",The customer found the food decent but wished it had more spices.,<s>
+2025-12-14T22:48:04.623650,3,"decent food, could use a little more spices
+","Dear Customer,
+
+Thank you for taking the time to share your feedback with us. We're glad to hear that you enjoyed your meal, but we're sorry to hear that you felt it could use a bit more spice.
+
+At [Your Restaurant Name], we strive to provide an enjoyable dining experience for all of our customers, and your feedback helps us to continuously improve. We understand that everyone has unique taste preferences, and we appreciate you bringing this to our attention.
+
+We'd be more than happy to adjust the seasoning of your dishes to better suit your taste, or we can recommend some of our dishes that are known for their bold flavors.
+
+Once again, thank you for your valuable feedback. We look forward to serving you again soon and hope to exceed your expectations in the future.
+
+Warm Regards,
+[Your Name]
+[Your Position]
+[Your Restaurant Name]",The customer found the food decent but suggested it could be improved with more spices.,No meaningful response generated.
+2025-12-14T23:01:05.502962,3,"decent food, could use a little more spices
+","[B_INST] Thank you for taking the time to share your feedback. We're glad to hear that you found our food decent, and we appreciate your suggestion about adding more spices. We'll definitely take this into consideration to improve your dining experience in the future. Your feedback is valuable to us, and we hope to serve you better on your next visit. Thank you again! [/B_INST]",The customer found the food decent but suggested it could be improved with more spices.,Adjust the seasoning or ingredients to better suit customer preferences.
+2025-12-14T23:07:33.708409,3,"decent food, could use a little more spices
+","Hi there! Thanks so much for taking the time to leave us a review. We're glad you enjoyed the food, and we really appreciate your feedback about the spices. We'll definitely pass this along to our kitchen team to help us improve! We'd love to have you back for another meal soon—maybe we can make it even better for you next time. Thanks again for your support!",The customer found the food decent but suggested it could be improved with a bit more spice.,Adjust seasoning or ingredients to enhance food flavor.
+2025-12-14T23:13:23.907812,1,waited 40 minutes for cold food. staff didn’t care at all.,"We're really sorry to hear about your experience. That's definitely not the kind of service we want to provide, and we appreciate you taking the time to share your feedback. We'll make sure to pass this along to our team so we can improve. Please give us another chance to serve you better—we'd love to make it right.",The customer was extremely dissatisfied with both the long wait time and the lack of care from the staff.,Improve service speed and train staff to prioritize customer satisfaction.
+2025-12-14T23:13:35.835778,2,food was fine but portions were really small for the price.,"Thanks so much for taking the time to share your feedback! We’re really glad to hear that you enjoyed the food, and we’re sorry that the portions didn’t quite meet your expectations. Your input is incredibly valuable to us, and we’ll definitely take this into consideration to improve. We’d love the chance to make it up to you—could I offer you a discount on your next order as a small thank you? Let me know if that works for you!",The customer found the food acceptable but felt the portion sizes were too small given the price.,Follow up with the customer to understand their portion expectations and assess if a price adjustment or portion size change is needed.
+2025-12-14T23:14:00.103176,3,"it was okay. nothing special, nothing bad.",No meaningful response generated.,"The customer found the experience to be neutral, neither particularly good nor bad.",Follow up with the customer to understand their experience in more detail.
+2025-12-14T23:15:11.182357,4,"loved the food and ambience, but music was a bit too loud.",No meaningful response generated.,The customer enjoyed the food and atmosphere but found the music volume to be too high.,Follow up with the customer to understand their music preferences and consider adjusting the volume.
+2025-12-14T23:15:31.460141,5,absolutely amazing experience! best food i’ve had in a long time.,Thank you so much for your kind words! We're so glad you enjoyed your meal—it means the world to us to hear that you had an amazing experience. Your feedback is what keeps us motivated to keep creating delicious food. We hope to see you again soon! 😊,The customer had an absolutely amazing experience with the best food they've had in a long time.,Follow up with the customer to thank them for their positive feedback.
+2025-12-14T23:16:11.453366,2,bad experience.,"Dear Valued Customer,
+
+I'm truly sorry to hear about the less than satisfying experience you had with us. We strive to make every interaction with our business a positive one, and it's clear that we fell short in your case.
+
+We appreciate your feedback as it helps us improve and grow. I'd love to understand more about your experience so we can address the issue and make things right for you. Could you please share more details about what didn't meet your expectations?
+
+We value your business and your satisfaction is our top priority. I'm here to help and I'd be more than happy to assist you further.
+
+Thank you for taking the time to share your feedback.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]",The customer had a bad experience.,Follow up with the customer to gather more information about their experience and address any concerns they may have.
+2025-12-14T23:16:28.930492,5,"food was decent, service could be better.",No meaningful response generated.,The customer found the food satisfactory but expressed that the service could be improved.,Train staff to enhance the service experience.
+2025-12-14T23:22:15.343746,3,"it was okay. nothing special, nothing bad.","Thank you for sharing your feedback! We’re glad you had an okay experience with us, and we appreciate you taking the time to let us know. We always strive to make every visit special, so we’ll take your comments to heart as we work to improve. We hope to see you again soon and give you a reason to leave a 5-star review next time!","The customer found the experience to be neutral, neither particularly good nor bad.",Follow up with the customer to get more specific feedback on their experience.
+2025-12-14T23:22:45.018678,5,"food was decent, service could be better.","Dear valued customer,
+
+Thank you so much for taking the time to share your thoughts about our food and service. We're truly grateful for your 5-star rating, and we're delighted to hear that you enjoyed our food.
+
+However, we're sorry to hear that you felt our service could be improved. We strive to provide excellent service to each and every one of our customers, and your feedback helps us to do better. We're committed to continuously improving our service, and your experience will definitely be taken into account as we work towards that goal.
+
+We hope to see you again soon, and we look forward to the opportunity to serve you better next time. Thank you once again for your feedback, and for choosing us for your dining experience.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Food Business Name] Team",No meaningful response generated.,Train staff to improve service quality.
+
+2025-12-14T23:24:58.586349,5,"food was decent, service could be better.","Thank you so much for your feedback and for taking the time to leave a review! We're really glad to hear that you enjoyed our food, and we truly appreciate your support. We'll make sure to pass along your comments about the service to our team so we can continue to improve. We hope to see you again soon for another great experience!","The customer found the food satisfactory but expressed dissatisfaction with the service, suggesting it could be improved.",Train staff to provide better service.
+2025-12-14T23:25:58.622797,4,"food took some time to arrive, but the staff was extremely polite and helpful.",No meaningful response generated.,The customer was satisfied with the polite and helpful staff but expressed a concern about the slow arrival of their food.,Follow up with the customer to thank them for their feedback and address any further concerns.
+2025-12-14T23:27:46.675059,4,"food took some time to arrive, but the staff was extremely polite and helpful.","Thank you so much for your feedback! We’re really glad to hear that our staff was polite and helpful. We truly appreciate your patience with the delivery time, and we’ll make sure to work on improving that for your next visit. Hope to see you again soon!",The customer appreciated the polite and helpful staff but expressed concern about the long wait time for their food.,Follow up with the customer to thank them for their feedback.
+2025-12-14T23:28:22.709027,2,tables were not clean and the washroom hygiene was disappointing.,"We sincerely apologize for the disappointment you experienced with the cleanliness of our tables and washroom. Your feedback is incredibly valuable to us, and we're truly sorry that we didn't meet your expectations on this visit. We take hygiene and cleanliness very seriously, and we'll be addressing this immediately to ensure it doesn't happen again. Please give us another chance to serve you better in the future. We would love to welcome you back and show you the high standards we strive for. Thank you for bringing this to our attention.",The customer was dissatisfied with the unclean tables and poor washroom hygiene.,Train staff to ensure tables and washrooms are consistently clean and hygienic.
+2025-12-14T23:28:39.305416,3,quality is good but prices feel a bit too high for what you get.,No meaningful response generated.,The customer appreciates the product's quality but finds the pricing to be disproportionately high.,Follow up with the customer to understand their pricing concerns and explore potential adjustments.
+2025-12-14T23:29:09.284727,2,loved waiting forever just to get ignored. great experience 👍,"We're really sorry to hear your experience didn't meet your expectations. Long waits and feeling ignored are never okay, and we truly appreciate you bringing this to our attention. We'd love the chance to make it right—could you please reach out to us directly so we can address this personally? Thank you for your feedback, and we hope to have the opportunity to serve you better in the future.","The customer expresses frustration over long wait times and feeling ignored, despite the sarcastic approval indicated by the thumbs-up emoji.",Follow up with the customer to address their concerns about service speed and ignore being ignored.
+2025-12-14T23:29:27.614166,5,amazing,No meaningful response generated.,"The customer is highly satisfied, expressing strong positive sentiment with the word ""amazing.""","No action required, as the customer's feedback is highly positive."
+2025-12-14T23:29:43.732999,3,restaurant was overcrowded and seating was uncomfortable.,We're really sorry to hear that your experience at our restaurant was less than ideal. We truly value your feedback and appreciate you taking the time to share it with us. We'll definitely look into improving our seating arrangements to ensure a more comfortable dining experience for all our guests. We hope to have the chance to welcome you back soon and serve you better in the future. Thank you for choosing us!,The customer expressed dissatisfaction with the overcrowded conditions and uncomfortable seating at the restaurant.,Train staff to manage seating and customer flow more efficiently.
+2025-12-14T23:30:24.082941,4,"i come here often and usually enjoy it, but today the service felt rushed.","Thank you so much for your feedback and for being a regular here at [Business Name]! We're really glad to hear that you usually enjoy your experience with us. We're sorry to hear that the service felt rushed today—we truly appreciate your patience, and we'll make sure to pass your feedback along to our team to ensure this doesn't happen again. We hope to see you again soon and give you the great experience you deserve!",The customer generally enjoys the establishment but was disappointed by the rushed service on their latest visit.,Follow up with the customer to understand their experience and address any concerns.
+2025-12-14T23:34:52.133416,4,"amazing
+",Thank you for your feedback! We’re glad you had a great experience.,"The customer expressed strong positive sentiment, praising the product or service as ""amazing.""",No action required.

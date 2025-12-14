@@ -69,7 +69,3 @@ Build and deploy a **web-based AI feedback system** with separate user and admin
 - Backend: Python
 - Storage: CSV
 - Deployment: Streamlit Cloud
-
----
-
-## Repository Structure

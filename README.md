@@ -1,4 +1,4 @@
-# ⭐ AI Rating Prediction & Feedback System (LLM-Based)
+# ⭐ AI Rating Prediction & Feedback System
 
 ## Overview
 This project demonstrates how **Large Language Models (LLMs)** can be used for:
